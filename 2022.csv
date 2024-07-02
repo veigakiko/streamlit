@@ -1,0 +1,444 @@
+Year,Position,Name,Academy,Age,Sexo,Belt,Peso
+2022,1,Ziare Emmanuel Allen,Team Lloyd Irvin,Juvenile 1,Male,Blue,Rooster (107.00lb)
+2022,1,Cauã Hernandes Leonor,Double Five,Juvenile 1,Male,Blue,Light-Feather (118.00lb)
+2022,2,Jorge Antonio Macías Arista,Renzo Gracie Mexico,Juvenile 1,Male,Blue,Light-Feather (118.00lb)
+2022,3,Ian Gaxiola,Double Five,Juvenile 1,Male,Blue,Light-Feather (118.00lb)
+2022,3,Mattia Baetens,Bad Boys JJ,Juvenile 1,Male,Blue,Light-Feather (118.00lb)
+2022,1,Alexander Adrian Osorio Mendez,Form Jiu Jitsu Academy,Juvenile 1,Male,Blue,Feather (129.00lb)
+2022,2,Xavier David Oliveira,Atos Jiu-Jitsu,Juvenile 1,Male,Blue,Feather (129.00lb)
+2022,3,Marcio Santana Ferreira de Vares,Atos Jiu-Jitsu,Juvenile 1,Male,Blue,Feather (129.00lb)
+2022,3,Muhammad El Kheir,MyBJJ Team,Juvenile 1,Male,Blue,Feather (129.00lb)
+2022,1,Nicolas Andrade Lobo,Gracie Barra,Juvenile 1,Male,Blue,Light (141.00lb)
+2022,2,Dominic J. Manno,Art of Jiu Jitsu,Juvenile 1,Male,Blue,Light (141.00lb)
+2022,3,Devin Patrick Riley,Team Lloyd Irvin,Juvenile 1,Male,Blue,Light (141.00lb)
+2022,3,Vincent William Barber,LEAD BJJ,Juvenile 1,Male,Blue,Light (141.00lb)
+2022,1,Cash Alexander Ficker,Atos Jiu-Jitsu,Juvenile 1,Male,Blue,Middle (152.00lb)
+2022,2,Legend Dominion Green-Coutee,LCCT - Combat Team,Juvenile 1,Male,Blue,Middle (152.00lb)
+2022,3,Brady Ramey,Watkins Wrecking Crew,Juvenile 1,Male,Blue,Middle (152.00lb)
+2022,3,Phillip Joshua Brovko,CheckMat,Juvenile 1,Male,Blue,Middle (152.00lb)
+2022,1,Park Jaewoon,John Frankl Jiu-Jitsu,Juvenile 1,Male,Blue,Medium-Heavy (163.00lb)
+2022,2,Noah Tyler Chua Torres,Atos Jiu-Jitsu,Juvenile 1,Male,Blue,Medium-Heavy (163.00lb)
+2022,3,Cauã Levi dos Santos Santana,Six Blades Jiu-Jitsu,Juvenile 1,Male,Blue,Medium-Heavy (163.00lb)
+2022,3,Tyson Beatty,Atos Jiu-Jitsu,Juvenile 1,Male,Blue,Medium-Heavy (163.00lb)
+2022,1,Chilli Lucien Harel,Art of Jiu Jitsu,Juvenile 1,Male,Blue,Heavy (175.00lb)
+2022,2,Constantine Michael Chalvantzis,Xcell Jiu-Jitsu Academy,Juvenile 1,Male,Blue,Heavy (175.00lb)
+2022,1,Caleb Eli Nascimento,Nova União,Juvenile 1,Male,Blue,Ultra-Heavy
+2022,2,Matteo Alonzo Mendez,CheckMat,Juvenile 1,Male,Blue,Ultra-Heavy
+2022,1,Nicolas Andrade Lobo,Gracie Barra,Juvenile 1,Male,Blue,Open Class Light
+2022,2,Devin Patrick Riley,Team Lloyd Irvin,Juvenile 1,Male,Blue,Open Class Light
+2022,3,Cauã Hernandes Leonor,Double Five,Juvenile 1,Male,Blue,Open Class Light
+2022,3,Dominic J. Manno,Art of Jiu Jitsu,Juvenile 1,Male,Blue,Open Class Light
+2022,1,Chilli Lucien Harel,Art of Jiu Jitsu,Juvenile 1,Male,Blue,Open Class Heavy
+2022,2,Park Jaewoon,John Frankl Jiu-Jitsu,Juvenile 1,Male,Blue,Open Class Heavy
+2022,3,Matteo Alonzo Mendez,CheckMat,Juvenile 1,Male,Blue,Open Class Heavy
+2022,3,Noah Tyler Chua Torres,Atos Jiu-Jitsu,Juvenile 1,Male,Blue,Open Class Heavy
+2022,1,Reagan Hoskinson,Watkins Wrecking Crew,Juvenile 1,Female,Blue,Light-Feather (106.60lb)
+2022,2,Zuzanna Maja Kowalska,ZR Team Association,Juvenile 1,Female,Blue,Light-Feather (106.60lb)
+2022,3,Sarah Daryana De La Pena Ochoa,Soul Fighters Texas,Juvenile 1,Female,Blue,Light-Feather (106.60lb)
+2022,1,Mia Funegra,Art of Jiu Jitsu,Juvenile 1,Female,Blue,Feather (116.00lb)
+2022,2,Emily Lynn Leyva,Atos Jiu-Jitsu,Juvenile 1,Female,Blue,Feather (116.00lb)
+2022,3,Hazel Marie Vallejo,Cleber Jiu-Jitsu Visalia,Juvenile 1,Female,Blue,Feather (116.00lb)
+2022,3,Riya Sachin Menon,Alliance,Juvenile 1,Female,Blue,Feather (116.00lb)
+2022,1,Lillian Jane Marchand,Atos Jiu-Jitsu,Juvenile 1,Female,Blue,Light (125.00lb)
+2022,2,Ashlee Funegra,Art of Jiu Jitsu,Juvenile 1,Female,Blue,Light (125.00lb)
+2022,3,Malibu Isabella Rocco,Pedigo Submission Fighting,Juvenile 1,Female,Blue,Light (125.00lb)
+2022,3,Rhyanna Irene Prata,Cascao Jiu-Jitsu,Juvenile 1,Female,Blue,Light (125.00lb)
+2022,1,Maria Luísa de Pádua C. M. Bravo,Gracie Humaita,Juvenile 1,Female,Blue,Middle (133.60lb)
+2022,2,Jadeya Sway Reber,Atos Jiu-Jitsu,Juvenile 1,Female,Blue,Middle (133.60lb)
+2022,3,Berlyn Luise Davis,CheckMat,Juvenile 1,Female,Blue,Middle (133.60lb)
+2022,3,India Risby,Gracie Barra,Juvenile 1,Female,Blue,Middle (133.60lb)
+2022,1,Sarah C. Firme Galvao,Atos Jiu-Jitsu,Juvenile 1,Female,Blue,Medium-Heavy (143.60lb)
+2022,2,Sofia Delgado,Caio Terra Association,Juvenile 1,Female,Blue,Medium-Heavy (143.60lb)
+2022,3,Annabelle Lee Levins,Paragon BJJ Academy,Juvenile 1,Female,Blue,Medium-Heavy (143.60lb)
+2022,3,Yurope Soosemea,Gracie Barra,Juvenile 1,Female,Blue,Medium-Heavy (143.60lb)
+2022,1,Ana Beatriz Alves Sant'anna,Infight JJ,Juvenile 1,Female,Blue,Heavy (152.00lb)
+2022,2,Hanna Marie Hepworth,Cicero Costha Internacional,Juvenile 1,Female,Blue,Heavy (152.00lb)
+2022,3,Cailin Lorelei Fultz,BJJ Revolution Team,Juvenile 1,Female,Blue,Heavy (152.00lb)
+2022,1,Fernanda Akemi Shizimu Cunha,Cunha Jiu-Jitsu Team,Juvenile 1,Female,Blue,Super-Heavy
+2022,2,Julianna Princess Wong,Cicero Costha Internacional,Juvenile 1,Female,Blue,Super-Heavy
+2022,3,Nacinta Glennis Simone Tu'uholoaki,Rilion Gracie Australia,Juvenile 1,Female,Blue,Super-Heavy
+2022,3,Nicolly Aparecida Lorenzi,P11 Brazilian Jiu-Jitsu,Juvenile 1,Female,Blue,Super-Heavy
+2022,1,Lillian Jane Marchand,Atos Jiu-Jitsu,Juvenile 1,Female,Blue,Open Class Light
+2022,2,Mia Funegra,Art of Jiu Jitsu,Juvenile 1,Female,Blue,Open Class Light
+2022,3,Ashlee Funegra,Art of Jiu Jitsu,Juvenile 1,Female,Blue,Open Class Light
+2022,3,Emily Lynn Leyva,Atos Jiu-Jitsu,Juvenile 1,Female,Blue,Open Class Light
+2022,1,Sarah C. Firme Galvao,Atos Jiu-Jitsu,Juvenile 1,Female,Blue,Open Class Heavy
+2022,2,Julianna Princess Wong,Cicero Costha Internacional,Juvenile 1,Female,Blue,Open Class Heavy
+2022,3,Jadeya Sway Reber,Atos Jiu-Jitsu,Juvenile 1,Female,Blue,Open Class Heavy
+2022,3,Nacinta Glennis Simone Tu'uholoaki,Rilion Gracie Australia,Juvenile 1,Female,Blue,Open Class Heavy
+2022,1,Corbin Benjamin Ratheau,Banana Jiu-Jitsu,Juvenile 2,Male,Blue,Rooster (118.00lb)
+2022,2,Max Alexander Gonzalez,CheckMat,Juvenile 2,Male,Blue,Rooster (118.00lb)
+2022,3,João C. Nascimento,Ares BJJ,Juvenile 2,Male,Blue,Rooster (118.00lb)
+2022,3,Royce David Gonzalez,CheckMat,Juvenile 2,Male,Blue,Rooster (118.00lb)
+2022,1,Eduardo Sousa do Nascimento,R1NG BJJ,Juvenile 2,Male,Blue,Light-Feather (129.00lb)
+2022,2,Michael Jalen B. Fonacier,Alliance,Juvenile 2,Male,Blue,Light-Feather (129.00lb)
+2022,3,Itsuki Takahashi,Carpe Diem,Juvenile 2,Male,Blue,Light-Feather (129.00lb)
+2022,3,James Christopher Clemmons,Ethos Jiu-Jitsu,Juvenile 2,Male,Blue,Light-Feather (129.00lb)
+2022,1,Colin Marcus Yun,Rodrigo Freitas Brazilian Jiu-Jitsu,Juvenile 2,Male,Blue,Feather (141.60lb)
+2022,2,Arjuna Brown,American Jiu-Jitsu Syndicate,Juvenile 2,Male,Blue,Feather (141.60lb)
+2022,3,Jaafar Van Loock,Gracie Barra,Juvenile 2,Male,Blue,Feather (141.60lb)
+2022,3,Logan Dre MacDonald,Gracie Humaita,Juvenile 2,Male,Blue,Feather (141.60lb)
+2022,1,Behnam Razaki,Dynamix Fighting Sports,Juvenile 2,Male,Blue,Light (152.60lb)
+2022,2,Samuel E. Hulsey,Cleber Jiu-Jitsu Visalia,Juvenile 2,Male,Blue,Light (152.60lb)
+2022,3,Diego Miguel Saenz,Cleber Jiu-Jitsu Visalia,Juvenile 2,Male,Blue,Light (152.60lb)
+2022,3,Jacob Daban Benedicto,Atos Jiu-Jitsu,Juvenile 2,Male,Blue,Light (152.60lb)
+2022,1,Carlos Leonardo da Silva Ignácio Jun,Fight for a Kid,Juvenile 2,Male,Blue,Middle (163.60lb)
+2022,2,Mateusz Marcin Hebdowski,Logic Europe,Juvenile 2,Male,Blue,Middle (163.60lb)
+2022,3,Jesiah Joshua Tubby,American Jiu-Jitsu Syndicate,Juvenile 2,Male,Blue,Middle (163.60lb)
+2022,3,William Wilson,Carlson Gracie Team,Juvenile 2,Male,Blue,Middle (163.60lb)
+2022,1,Caio Carreira Ramos,GF Team,Juvenile 2,Male,Blue,Medium-Heavy (175.00lb)
+2022,2,Marcus Isaiah Daniel,Team Lloyd Irvin,Juvenile 2,Male,Blue,Medium-Heavy (175.00lb)
+2022,3,Enzo Botinelly Rodrigues,Gracie Barra,Juvenile 2,Male,Blue,Medium-Heavy (175.00lb)
+2022,3,Guilherme Barbosa da Costa Silva,Double Five,Juvenile 2,Male,Blue,Medium-Heavy (175.00lb)
+2022,1,Rafael Hipólito de Oliveira Junior,Gracie Barra,Juvenile 2,Male,Blue,Heavy (186.00lb)
+2022,2,Anthony Evan Mustacchio,Nova União,Juvenile 2,Male,Blue,Heavy (186.00lb)
+2022,3,Alexander Leo Shahin,Frontline Academy,Juvenile 2,Male,Blue,Heavy (186.00lb)
+2022,3,Lucas James Goldberg,Gracie Barra,Juvenile 2,Male,Blue,Heavy (186.00lb)
+2022,1,Matheus Paulo da Costa,CheckMat,Juvenile 2,Male,Blue,Super-Heavy (197.00lb)
+2022,2,Santiago Pulecio,Gracie Barra,Juvenile 2,Male,Blue,Super-Heavy (197.00lb)
+2022,1,Jean Clomar Zinato Machado,MJN Jiu-Jitsu,Juvenile 2,Male,Blue,Ultra-Heavy
+2022,2,Cesar Henrique Rodrigues,Rodrigo Pinheiro BJJ,Juvenile 2,Male,Blue,Ultra-Heavy
+2022,3,Juan Miguel Tabares Rodriguez,Alliance,Juvenile 2,Male,Blue,Ultra-Heavy
+2022,1,Michael Jalen B. Fonacier,Alliance,Juvenile 2,Male,Blue,Open Class Light
+2022,2,Colin Marcus Yun,Rodrigo Freitas Brazilian Jiu-Jitsu,Juvenile 2,Male,Blue,Open Class Light
+2022,3,Eduardo Sousa do Nascimento,R1NG BJJ,Juvenile 2,Male,Blue,Open Class Light
+2022,3,James Christopher Clemmons,Ethos Jiu-Jitsu,Juvenile 2,Male,Blue,Open Class Light
+2022,1,Rafael Hipólito de Oliveira Junior,Gracie Barra,Juvenile 2,Male,Blue,Open Class Heavy
+2022,2,Caio Carreira Ramos,GF Team,Juvenile 2,Male,Blue,Open Class Heavy
+2022,3,Marcus Isaiah Daniel,Team Lloyd Irvin,Juvenile 2,Male,Blue,Open Class Heavy
+2022,3,Matheus Paulo da Costa,CheckMat,Juvenile 2,Male,Blue,Open Class Heavy
+2022,1,Kamilly Silva Dias de Souza,GF Team,Juvenile 2,Female,Blue,Light-Feather (106.60lb)
+2022,2,Violet Helena Pineda,CheckMat,Juvenile 2,Female,Blue,Light-Feather (106.60lb)
+2022,3,Justyna Aleksandra Kabaja,Logic Europe,Juvenile 2,Female,Blue,Light-Feather (106.60lb)
+2022,3,Yasmine Far,Gracie Humaita,Juvenile 2,Female,Blue,Light-Feather (106.60lb)
+2022,1,Ingrid da Silva Guedes,GF Team,Juvenile 2,Female,Blue,Feather (116.00lb)
+2022,2,Liliana A. Mendez,Gracie Barra,Juvenile 2,Female,Blue,Feather (116.00lb)
+2022,1,Brianna Holcomb,Team Lloyd Irvin,Juvenile 2,Female,Blue,Light (125.00lb)
+2022,2,Hailee Joan Scarangello,Lotus Club USA,Juvenile 2,Female,Blue,Light (125.00lb)
+2022,3,Madison Anne Pointer,Gracie Barra,Juvenile 2,Female,Blue,Light (125.00lb)
+2022,1,Camila Eduarda Reis da Silva,Kronos BJJ,Juvenile 2,Female,Blue,Middle (133.60lb)
+2022,2,Júlia Maciel de Carvalho,Fight for a Kid,Juvenile 2,Female,Blue,Middle (133.60lb)
+2022,3,Amara Sofia Rodriguez,LCCT - Combat Team,Juvenile 2,Female,Blue,Middle (133.60lb)
+2022,3,Lorelai Innes,CheckMat,Juvenile 2,Female,Blue,Middle (133.60lb)
+2022,1,Carolina Vieira do Carmo Massot,Alliance,Juvenile 2,Female,Blue,Medium-Heavy (143.60lb)
+2022,2,Vivian Mary Whitton,Jiu-Jitsu For Life Team,Juvenile 2,Female,Blue,Medium-Heavy (143.60lb)
+2022,3,Gianna Bella Bailey,Carlson Gracie Team,Juvenile 2,Female,Blue,Medium-Heavy (143.60lb)
+2022,3,Olivia Belle Ocampo,CheckMat,Juvenile 2,Female,Blue,Medium-Heavy (143.60lb)
+2022,1,Giovanna Xavier Carneiro,GF Team,Juvenile 2,Female,Blue,Heavy (152.00lb)
+2022,2,Vanessa Padilla,LEAD BJJ,Juvenile 2,Female,Blue,Heavy (152.00lb)
+2022,3,Isabel Alexandra Bostrom Araneda,CheckMat,Juvenile 2,Female,Blue,Heavy (152.00lb)
+2022,1,Eduarda Rodrigues Batista,Art of Jiu Jitsu,Juvenile 2,Female,Blue,Super-Heavy
+2022,2,Ryleigh Rae Pirraglia,LEAD BJJ,Juvenile 2,Female,Blue,Super-Heavy
+2022,3,Alice Costa Braga,Fabin Rosa Brazilian Jiu-Jitsu,Juvenile 2,Female,Blue,Super-Heavy
+2022,3,Emari Ja'khia Brown,Fabin Rosa Brazilian Jiu-Jitsu,Juvenile 2,Female,Blue,Super-Heavy
+2022,1,Brianna Holcomb,Team Lloyd Irvin,Juvenile 2,Female,Blue,Open Class Light
+2022,2,Hailee Joan Scarangello,Lotus Club USA,Juvenile 2,Female,Blue,Open Class Light
+2022,3,Ingrid da Silva Guedes,GF Team,Juvenile 2,Female,Blue,Open Class Light
+2022,3,Kamilly Silva Dias de Souza,GF Team,Juvenile 2,Female,Blue,Open Class Light
+2022,1,Giovanna Xavier Carneiro,GF Team,Juvenile 2,Female,Blue,Open Class Heavy
+2022,2,Ryleigh Rae Pirraglia,LEAD BJJ,Juvenile 2,Female,Blue,Open Class Heavy
+2022,3,Emari Ja'khia Brown,Fabin Rosa Brazilian Jiu-Jitsu,Juvenile 2,Female,Blue,Open Class Heavy
+2022,3,Gianna Bella Bailey,Carlson Gracie Team,Juvenile 2,Female,Blue,Open Class Heavy
+2022,1,Kleber Barboza Alves,DreamArt,Adult,Male,Blue,Rooster (127.00lb)
+2022,2,Adam Bejaoui,Cicero Costha Internacional,Adult,Male,Blue,Rooster (127.00lb)
+2022,3,Finn Patrick Canning,Grappling Education,Adult,Male,Blue,Rooster (127.00lb)
+2022,3,Jonathan Desbiens,Sudbury MMA,Adult,Male,Blue,Rooster (127.00lb)
+2022,1,João Vitor Alves,Alliance,Adult,Male,Blue,Light-Feather (141.60lb)
+2022,2,Lucas de Palma Boraschi,MJN Jiu-Jitsu,Adult,Male,Blue,Light-Feather (141.60lb)
+2022,3,Jinyong Jo,Tristone Korea,Adult,Male,Blue,Light-Feather (141.60lb)
+2022,3,Pedro Henrique Moura Avila,DreamArt,Adult,Male,Blue,Light-Feather (141.60lb)
+2022,1,Guy Alexander Ficker,Atos Jiu-Jitsu,Adult,Male,Blue,Feather (154.60lb)
+2022,2,Colby Hernandez,Soul Fighters Texas,Adult,Male,Blue,Feather (154.60lb)
+2022,3,Ethan Roy Major,Renzo Gracie Ottawa,Adult,Male,Blue,Feather (154.60lb)
+2022,3,Owen Anthony Jones,ZR Team Association,Adult,Male,Blue,Feather (154.60lb)
+2022,1,Rafael Belmont Gamba,Alliance,Adult,Male,Blue,Light (168.00lb)
+2022,2,João Vitor de Arruda Venancio,DreamArt,Adult,Male,Blue,Light (168.00lb)
+2022,3,Luis Felipe Moraes dos Santos,Atos Jiu-Jitsu,Adult,Male,Blue,Light (168.00lb)
+2022,3,Tad Alan Cravens,Pedigo Submission Fighting,Adult,Male,Blue,Light (168.00lb)
+2022,1,Enzo Marasciulo Silva,R1NG BJJ,Adult,Male,Blue,Middle (181.60lb)
+2022,2,Nicholas James Mataya,Gracie Humaita,Adult,Male,Blue,Middle (181.60lb)
+2022,3,Christian Scott Arias,Reaction MMA / SAS,Adult,Male,Blue,Middle (181.60lb)
+2022,3,Zack Ahmed Ghalayini,Fifty/50 Jiu-Jitsu,Adult,Male,Blue,Middle (181.60lb)
+2022,1,Beauchamp F Keeve,SF Empire Jiu-Jitsu,Adult,Male,Blue,Medium-Heavy (195.00lb)
+2022,2,Logan Smith,Alliance,Adult,Male,Blue,Medium-Heavy (195.00lb)
+2022,3,Daniel Fernandes Cruz de Souza,Fight Sports,Adult,Male,Blue,Medium-Heavy (195.00lb)
+2022,3,Natã Tenca Lima,Atos Jiu-Jitsu,Adult,Male,Blue,Medium-Heavy (195.00lb)
+2022,1,Tiago Pereira Nascimento Filho,Alliance,Adult,Male,Blue,Heavy (208.00lb)
+2022,2,Christopher Patrick Moran II,Octagon MMA,Adult,Male,Blue,Heavy (208.00lb)
+2022,3,Austin Taylor Keanu R Ramos,Conde Koma BJJ,Adult,Male,Blue,Heavy (208.00lb)
+2022,3,Maycon Douglas do Amaral,Atos Jiu-Jitsu,Adult,Male,Blue,Heavy (208.00lb)
+2022,1,Blake Edward Brown,Pedigo Submission Fighting,Adult,Male,Blue,Super-Heavy (222.00lb)
+2022,2,Zack Bartell,One Jiu-Jitsu USA,Adult,Male,Blue,Super-Heavy (222.00lb)
+2022,3,Cyrus Aleksander Nolan,Clark Gracie Team,Adult,Male,Blue,Super-Heavy (222.00lb)
+2022,3,Reece Andrew Reznicek,GF Team,Adult,Male,Blue,Super-Heavy (222.00lb)
+2022,1,Leonardo Ribeiro Gonçalves,Alliance,Adult,Male,Blue,Ultra-Heavy
+2022,2,Samuel Joseph Palumbo,Alliance,Adult,Male,Blue,Ultra-Heavy
+2022,3,DeVante Lamar Johnson-Rose,ZR Team Association,Adult,Male,Blue,Ultra-Heavy
+2022,3,João Victor Nascimento S. Souza,DreamArt,Adult,Male,Blue,Ultra-Heavy
+2022,1,Tiago Pereira Nascimento Filho,Alliance,Adult,Male,Blue,Open Class
+2022,2,João Vitor de Arruda Venancio,DreamArt,Adult,Male,Blue,Open Class
+2022,3,Enzo Marasciulo Silva,R1NG BJJ,Adult,Male,Blue,Open Class
+2022,3,Zack Bartell,One Jiu-Jitsu USA,Adult,Male,Blue,Open Class
+2022,1,Kamily Takayas de Oliveira,DreamArt,Adult,Female,Blue,Rooster (107.00lb)
+2022,2,Monica Raquel Pedro,Fight Sports,Adult,Female,Blue,Rooster (107.00lb)
+2022,3,Beyth-Shan Yahweh Yodh He Waw He,Gracie Barra,Adult,Female,Blue,Rooster (107.00lb)
+2022,3,Camille Jesse de Keyser,Atos Jiu-Jitsu,Adult,Female,Blue,Rooster (107.00lb)
+2022,1,Micaela Gomes dos Santos,Qatar BJJ / Vision Brasil,Adult,Female,Blue,Light-Feather (118.00lb)
+2022,2,Ana Maria Arboleda Pulgarin,Cicero Costha Internacional,Adult,Female,Blue,Light-Feather (118.00lb)
+2022,3,Lauren Hanako Sognefest,Art of Jiu Jitsu,Adult,Female,Blue,Light-Feather (118.00lb)
+2022,3,Mandy Schneider,Soul Fighters Texas,Adult,Female,Blue,Light-Feather (118.00lb)
+2022,1,Tamara Toros,Atos Jiu-Jitsu,Adult,Female,Blue,Feather (129.00lb)
+2022,2,Sydney Danielle James,Team Lloyd Irvin,Adult,Female,Blue,Feather (129.00lb)
+2022,3,Karen Grace Chu,Ares BJJ,Adult,Female,Blue,Feather (129.00lb)
+2022,3,Sierra Nicole Hoover,Ares BJJ,Adult,Female,Blue,Feather (129.00lb)
+2022,1,Teshya Noelani Alo,Atos Jiu-Jitsu,Adult,Female,Blue,Light (141.60lb)
+2022,2,Giovanna Rangel Chaves,Double Five,Adult,Female,Blue,Light (141.60lb)
+2022,3,Maria Mae Golden,Kings MMA Anaheim,Adult,Female,Blue,Light (141.60lb)
+2022,3,Melanie Nicole Iverson,McVicker's Brazilian Jiu Jitsu,Adult,Female,Blue,Light (141.60lb)
+2022,1,Keanna Carolyn Klay,Gracie Barra,Adult,Female,Blue,Middle (152.60lb)
+2022,2,Luana Sousa Soares,Alliance,Adult,Female,Blue,Middle (152.60lb)
+2022,3,Ayumi Pyetra Kanashiro,Bon-Sai Jiu-Jitsu,Adult,Female,Blue,Middle (152.60lb)
+2022,3,Leah Caroline Strothers,Atos Jiu-Jitsu,Adult,Female,Blue,Middle (152.60lb)
+2022,1,Elizabeth Grace Sebestyen,Six Blades Jiu-Jitsu,Adult,Female,Blue,Medium-Heavy (163.60lb)
+2022,2,Tetyana Clarke,Gracie Humaita,Adult,Female,Blue,Medium-Heavy (163.60lb)
+2022,3,Javelin Malia Murray Kalama,CheckMat,Adult,Female,Blue,Medium-Heavy (163.60lb)
+2022,1,Laura Kolm Schmidlin,Unity Jiu-jitsu,Adult,Female,Blue,Heavy (175.00lb)
+2022,2,Ashley Susan T. Green,Daniel Gracie Academy,Adult,Female,Blue,Heavy (175.00lb)
+2022,3,Carolina Granzotto Vidal Lima,CheckMat,Adult,Female,Blue,Heavy (175.00lb)
+2022,3,Melissa Peart,Unity Jiu-jitsu,Adult,Female,Blue,Heavy (175.00lb)
+2022,1,Kathleen Brann,Travis Lutter Brazilian Jiu-Jitsu,Adult,Female,Blue,Super-Heavy
+2022,2,Lucy Campos,Gracie Barra,Adult,Female,Blue,Super-Heavy
+2022,3,Jasmine Isabel Gallegos,Asa Jiu-Jitsu International,Adult,Female,Blue,Super-Heavy
+2022,3,Jessica Anne Klinger,Easton BJJ,Adult,Female,Blue,Super-Heavy
+2022,1,Luana Sousa Soares,Alliance,Adult,Female,Blue,Open Class
+2022,2,Michelle Yvonne Montague,Will/Machado,Adult,Female,Blue,Open Class
+2022,3,Ashley Susan T. Green,Daniel Gracie Academy,Adult,Female,Blue,Open Class
+2022,3,Leah Caroline Strothers,Atos Jiu-Jitsu,Adult,Female,Blue,Open Class
+2022,1,Ethan Shane Johnston,Triunfo Brazilian Jiu Jitsu,Adult,Male,Purple,Rooster (127.00lb)
+2022,2,Jerzy Izdebski,Brasa CTA,Adult,Male,Purple,Rooster (127.00lb)
+2022,3,Gustavo Bruno Clementino dos Santos,CheckMat,Adult,Male,Purple,Rooster (127.00lb)
+2022,3,Marcos Antonio Gomes Guedes,DreamArt,Adult,Male,Purple,Rooster (127.00lb)
+2022,1,Rerisson dos Santos Gabriel,CheckMat International,Adult,Male,Purple,Light-Feather (141.60lb)
+2022,2,Kevin Gabriel Mascarenhas Alencar,DreamArt,Adult,Male,Purple,Light-Feather (141.60lb)
+2022,3,Igor Moreira de Faria da Silva,CheckMat,Adult,Male,Purple,Light-Feather (141.60lb)
+2022,3,Steven Alexander Gomez,Art of Jiu Jitsu,Adult,Male,Purple,Light-Feather (141.60lb)
+2022,1,Cole Anthony Abate,Art of Jiu Jitsu,Adult,Male,Purple,Feather (154.60lb)
+2022,2,Gustavo Umeoka Ogawa,Art of Jiu Jitsu,Adult,Male,Purple,Feather (154.60lb)
+2022,3,Marco Vinicius Mendes Brito,Ares BJJ,Adult,Male,Purple,Feather (154.60lb)
+2022,3,Miguel Costa Campos,DreamArt,Adult,Male,Purple,Feather (154.60lb)
+2022,1,Thiago Robson Saboia Sousa,Alliance,Adult,Male,Purple,Light (168.00lb)
+2022,2,Oilson Valdinei Alvim Junior,DreamArt,Adult,Male,Purple,Light (168.00lb)
+2022,3,Donghyun Kim,Kingdom Jiu-Jitsu,Adult,Male,Purple,Light (168.00lb)
+2022,3,Tulio Eduardo Santos Pita,CheckMat,Adult,Male,Purple,Light (168.00lb)
+2022,1,Jefferson Alves Goteu,CheckMat,Adult,Male,Purple,Middle (181.60lb)
+2022,2,José Steve Nduazulu Ndilu,Cens Academy,Adult,Male,Purple,Middle (181.60lb)
+2022,3,Lucca Simões da Motta B. Costa Leite,Focus Jiu-Jitsu,Adult,Male,Purple,Middle (181.60lb)
+2022,3,Rafael Leite Borges,DreamArt,Adult,Male,Purple,Middle (181.60lb)
+2022,1,Pedro de Azevedo Ferreira Rubim,GF Team,Adult,Male,Purple,Medium-Heavy (195.00lb)
+2022,2,Takeshiro Tanino Kauan Yuuki,Atos Jiu-Jitsu,Adult,Male,Purple,Medium-Heavy (195.00lb)
+2022,3,Gavin Christopher Sonnier,Gracie Barra,Adult,Male,Purple,Medium-Heavy (195.00lb)
+2022,3,Rodrigo Gabriel Silva Mariani,CheckMat,Adult,Male,Purple,Medium-Heavy (195.00lb)
+2022,1,Guilherme Avelino da Silva,Alliance,Adult,Male,Purple,Heavy (208.00lb)
+2022,2,Leonardo Silveira Ferreira,Alliance,Adult,Male,Purple,Heavy (208.00lb)
+2022,3,Dory Raymond Aoun,CheckMat,Adult,Male,Purple,Heavy (208.00lb)
+2022,3,Patryk Wiktor Smoszna,Unity Jiu-Jitsu International,Adult,Male,Purple,Heavy (208.00lb)
+2022,1,Leon da Silva Mendonça,Nova União,Adult,Male,Purple,Super-Heavy (222.00lb)
+2022,2,Telmo Lucileno Ferreira Castro,Brazilian Power Team International,Adult,Male,Purple,Super-Heavy (222.00lb)
+2022,3,Louis Charles Loeb,Alliance,Adult,Male,Purple,Super-Heavy (222.00lb)
+2022,3,Nicklas Christopher Vinso Hartman,Zenith BJJ,Adult,Male,Purple,Super-Heavy (222.00lb)
+2022,1,Pedro Marcolino Sales Filho,Zenith BJJ,Adult,Male,Purple,Ultra-Heavy
+2022,2,Wyatt Beau Doblado,Atos Jiu-Jitsu,Adult,Male,Purple,Ultra-Heavy
+2022,3,Jibril Abdrabboh,LEAD BJJ,Adult,Male,Purple,Ultra-Heavy
+2022,3,William Doucet,Gracie Barra,Adult,Male,Purple,Ultra-Heavy
+2022,1,Leon da Silva Mendonça,Nova União,Adult,Male,Purple,Open Class
+2022,2,José Steve Nduazulu Ndilu,Cens Academy,Adult,Male,Purple,Open Class
+2022,3,Rafael Leite Borges,DreamArt,Adult,Male,Purple,Open Class
+2022,3,Takeshiro Tanino Kauan Yuuki,Atos Jiu-Jitsu,Adult,Male,Purple,Open Class
+2022,1,Shelby Lena Murphey,Art of Jiu Jitsu,Adult,Female,Purple,Rooster (107.00lb)
+2022,2,Thaynara Victoria Soares da Silva,DreamArt,Adult,Female,Purple,Rooster (107.00lb)
+2022,3,Giavanna Crivello,Ralph Gracie,Adult,Female,Purple,Rooster (107.00lb)
+2022,3,Yamada Kanae,Igloo,Adult,Female,Purple,Rooster (107.00lb)
+2022,1,Vitória Damiana Silva de Assis,Double Five,Adult,Female,Purple,Light-Feather (118.00lb)
+2022,2,Ana Carolina Da Silva,Fight Sports,Adult,Female,Purple,Light-Feather (118.00lb)
+2022,3,Eduarda Alves Santos,DreamArt,Adult,Female,Purple,Light-Feather (118.00lb)
+2022,3,Esther Garwood,Carlson Gracie Team,Adult,Female,Purple,Light-Feather (118.00lb)
+2022,1,Michaela Jones,Riis-Rosenberg Jiu-Jitsu,Adult,Female,Purple,Feather (129.00lb)
+2022,2,Leilani Suma Bernales,Fight Sports,Adult,Female,Purple,Feather (129.00lb)
+2022,3,Abbie O'toole,Roger Gracie Academy,Adult,Female,Purple,Feather (129.00lb)
+2022,3,Mona Maree Bailey,Carlson Gracie Team,Adult,Female,Purple,Feather (129.00lb)
+2022,1,Ana Beatriz Santos Silva,Qatar BJJ / Vision Brasil,Adult,Female,Purple,Light (141.60lb)
+2022,2,Amanda Pamela Nicole Schurtz,ECJJA,Adult,Female,Purple,Light (141.60lb)
+2022,3,Karina Nicole Lagrana,Team Lloyd Irvin,Adult,Female,Purple,Light (141.60lb)
+2022,3,Olivia Schauer,Atos JJ International,Adult,Female,Purple,Light (141.60lb)
+2022,1,Selma Essahli Vik,Team Trondheim BJJ,Adult,Female,Purple,Middle (152.60lb)
+2022,2,Gisele Menezes Tavares,GF Team,Adult,Female,Purple,Middle (152.60lb)
+2022,3,Gabrielli Giovana da Silva Dourado,GF Team,Adult,Female,Purple,Middle (152.60lb)
+2022,3,Heloysa Fernanda Araujo Oliveira,Gracie Barra,Adult,Female,Purple,Middle (152.60lb)
+2022,1,Laura Liwia Sieradzan,CheckMat,Adult,Female,Purple,Medium-Heavy (163.60lb)
+2022,2,Letícia Teixeira dos Santos,GF Team,Adult,Female,Purple,Medium-Heavy (163.60lb)
+2022,3,Denise Krahn,Hilti BJJ IMAG Berlin,Adult,Female,Purple,Medium-Heavy (163.60lb)
+2022,3,Maria Carolina Barón Vicentini,Barbosa Jiu-Jitsu,Adult,Female,Purple,Medium-Heavy (163.60lb)
+2022,1,Giovanna Jara de Souza,DreamArt,Adult,Female,Purple,Heavy (175.00lb)
+2022,2,Nia Blackman,CheckMat,Adult,Female,Purple,Heavy (175.00lb)
+2022,3,Ibtisam El-Shahat,Ares BJJ,Adult,Female,Purple,Heavy (175.00lb)
+2022,3,Maria Carollina Nery Rodrigues,GF Team,Adult,Female,Purple,Heavy (175.00lb)
+2022,1,Lyndsie Maurene Hauck,Absolute Behring,Adult,Female,Purple,Super-Heavy
+2022,2,Erin Quillen,CheckMat,Adult,Female,Purple,Super-Heavy
+2022,3,Mell Victória de Souza Rangel,Infight JJ,Adult,Female,Purple,Super-Heavy
+2022,3,Michelle Dunchus,Brea Jiu-Jitsu,Adult,Female,Purple,Super-Heavy
+2022,1,Giovanna Jara de Souza,DreamArt,Adult,Female,Purple,Open Class
+2022,2,Nia Blackman,CheckMat,Adult,Female,Purple,Open Class
+2022,3,Denise Krahn,Hilti BJJ IMAG Berlin,Adult,Female,Purple,Open Class
+2022,3,Maria Carolina Barón Vicentini,Barbosa Jiu-Jitsu,Adult,Female,Purple,Open Class
+2022,1,Cory Walker,Team Lloyd Irvin,Adult,Male,Brown,Rooster (127.00lb)
+2022,2,Reon Niwa,Art of Jiu Jitsu,Adult,Male,Brown,Rooster (127.00lb)
+2022,3,Lucas de Souza Castro,Gracie Barra,Adult,Male,Brown,Rooster (127.00lb)
+2022,3,Shay Ananda Montague,ECJJA,Adult,Male,Brown,Rooster (127.00lb)
+2022,1,Thalys de Oliveira Pontes,Cicero Costha Internacional,Adult,Male,Brown,Light-Feather (141.60lb)
+2022,2,Mourece Noah Ramirez,Nova União,Adult,Male,Brown,Light-Feather (141.60lb)
+2022,3,Jacob Elijah Cisneros,Cleber Jiu-Jitsu Visalia,Adult,Male,Brown,Light-Feather (141.60lb)
+2022,3,Zachary Kaima'alili Kaina-Kokubun,Art of Jiu Jitsu,Adult,Male,Brown,Light-Feather (141.60lb)
+2022,1,Daniel Sathler Campos,Atos Jiu-Jitsu,Adult,Male,Brown,Feather (154.60lb)
+2022,2,An Vu,Atos Jiu-Jitsu,Adult,Male,Brown,Feather (154.60lb)
+2022,3,Eduardo Granzotto Vidal Lima,CheckMat,Adult,Male,Brown,Feather (154.60lb)
+2022,3,Gustavo Estebam dos Santos,ZR Team Association,Adult,Male,Brown,Feather (154.60lb)
+2022,1,Carlos Henrique Costa Campos,DreamArt,Adult,Male,Brown,Light (168.00lb)
+2022,2,Elijah Amir Dorsey,Team Lloyd Irvin,Adult,Male,Brown,Light (168.00lb)
+2022,3,Cody M. Yanez-Jahangiri,Gracie Barra,Adult,Male,Brown,Light (168.00lb)
+2022,3,Gabriel Cardoso Amorim,Six Blades Jiu-Jitsu,Adult,Male,Brown,Light (168.00lb)
+2022,1,Arley Pacheco Damaceno Brandão,Gracie Barra,Adult,Male,Brown,Middle (181.60lb)
+2022,2,Vinícius do Canto Martins,Alliance,Adult,Male,Brown,Middle (181.60lb)
+2022,3,Cade Jason Roque,Maracaba BJJ,Adult,Male,Brown,Middle (181.60lb)
+2022,3,Carlos André Silva dos Santos,Gracie Barra,Adult,Male,Brown,Middle (181.60lb)
+2022,1,Rui Alves Neto,DreamArt,Adult,Male,Brown,Medium-Heavy (195.00lb)
+2022,2,Jose Jurema Nascimento de Carvalho,CheckMat,Adult,Male,Brown,Medium-Heavy (195.00lb)
+2022,3,Gabriel Viebrantz Brod,Gracie Barra,Adult,Male,Brown,Medium-Heavy (195.00lb)
+2022,3,Martin Alejandro Gonzalez Mejia,Atos Jiu-Jitsu,Adult,Male,Brown,Medium-Heavy (195.00lb)
+2022,1,Elder Alexander Cruz,CheckMat,Adult,Male,Brown,Heavy (208.00lb)
+2022,2,Caio Vinicius  Lima Santos,Gracie Barra,Adult,Male,Brown,Heavy (208.00lb)
+2022,3,Enzo Baptista Guimarães,617 Brazilian Jiu-Jitsu,Adult,Male,Brown,Heavy (208.00lb)
+2022,3,Guilherme  Carmo Cypriano,Cicero Costha Internacional,Adult,Male,Brown,Heavy (208.00lb)
+2022,1,Steffen M. Banta,Alliance,Adult,Male,Brown,Super-Heavy (222.00lb)
+2022,2,Nicholas Maglicic,Atos Jiu-Jitsu,Adult,Male,Brown,Super-Heavy (222.00lb)
+2022,3,Levi Noland Kurtovich,Alliance International,Adult,Male,Brown,Super-Heavy (222.00lb)
+2022,3,Rayron Gracie,Renzo Gracie Academy,Adult,Male,Brown,Super-Heavy (222.00lb)
+2022,1,Kjetil Lydvo,Frontline Academy,Adult,Male,Brown,Ultra-Heavy
+2022,2,Helder Jose Rodrigues Júnior,Qatar BJJ / Vision Brasil,Adult,Male,Brown,Ultra-Heavy
+2022,3,Horácio Maciel Antunes,CheckMat,Adult,Male,Brown,Ultra-Heavy
+2022,3,Pedro José Pessoa de Melo Bisneto,ZR Team Association,Adult,Male,Brown,Ultra-Heavy
+2022,1,Caio Vinicius  Lima Santos,Gracie Barra,Adult,Male,Brown,Open Class
+2022,2,Rayron Gracie,Renzo Gracie Academy,Adult,Male,Brown,Open Class
+2022,3,Arley Pacheco Damaceno Brandão,Gracie Barra,Adult,Male,Brown,Open Class
+2022,3,Jose Jurema Nascimento de Carvalho,CheckMat,Adult,Male,Brown,Open Class
+2022,1,Giulia Guimaraes Gregorut,Alliance,Adult,Female,Brown,Rooster (107.00lb)
+2022,2,Margarita Prado Ochoa,Atos Jiu-Jitsu,Adult,Female,Brown,Rooster (107.00lb)
+2022,3,Faye Cherrier,Atos Jiu-Jitsu,Adult,Female,Brown,Rooster (107.00lb)
+2022,3,Mara Kelly,BJJ Revolution Team - International,Adult,Female,Brown,Rooster (107.00lb)
+2022,1,Brenda Wunner,Form Jiu Jitsu Academy,Adult,Female,Brown,Light-Feather (118.00lb)
+2022,2,Abbigayle Pontes,Cicero Costha Internacional,Adult,Female,Brown,Light-Feather (118.00lb)
+2022,3,Fiona Middleton,Roger Gracie Academy,Adult,Female,Brown,Light-Feather (118.00lb)
+2022,3,Melissa Britez Costa,GF Team,Adult,Female,Brown,Light-Feather (118.00lb)
+2022,1,Maria Cláudia Almeida Silva,Infight JJ,Adult,Female,Brown,Feather (129.00lb)
+2022,2,Alanis Coral Santiago Betancourt,Unity Jiu-jitsu,Adult,Female,Brown,Feather (129.00lb)
+2022,3,Leticia Yuka Chubaci Murakami,Double Trouble,Adult,Female,Brown,Feather (129.00lb)
+2022,3,Thamyres Tavares Santos,Alliance,Adult,Female,Brown,Feather (129.00lb)
+2022,1,Júlia de Jesus Alves,GF Team,Adult,Female,Brown,Light (141.60lb)
+2022,2,Emily Elizabeth Fernandez,LEAD BJJ,Adult,Female,Brown,Light (141.60lb)
+2022,3,Larissa dos Santos Tedesco,Alliance,Adult,Female,Brown,Light (141.60lb)
+2022,3,Sabrina Rogéria Ataide B. Gondim,CheckMat,Adult,Female,Brown,Light (141.60lb)
+2022,1,Amanda Hening,Alliance,Adult,Female,Brown,Middle (152.60lb)
+2022,2,Deise dos Santos Leonanjo,Cicero Costha Internacional,Adult,Female,Brown,Middle (152.60lb)
+2022,3,Larissa Martins dos Santos,DreamArt,Adult,Female,Brown,Middle (152.60lb)
+2022,3,Rebeca Ferreira de Lima,GF Team,Adult,Female,Brown,Middle (152.60lb)
+2022,1,Aurélie LE Vern,Six Blades Jiu-Jitsu,Adult,Female,Brown,Medium-Heavy (163.60lb)
+2022,2,Scarlett Anstiss-Liljefors,Dynamix Fighting Sports,Adult,Female,Brown,Medium-Heavy (163.60lb)
+2022,3,Kauane Ramos da Silva,CheckMat,Adult,Female,Brown,Medium-Heavy (163.60lb)
+2022,3,Raquel De Oliveira Santos,CheckMat,Adult,Female,Brown,Medium-Heavy (163.60lb)
+2022,1,Tamiris Fernanda da Silva,DreamArt,Adult,Female,Brown,Heavy (175.00lb)
+2022,2,Paige Ivette Borras,Legion American Jiu-Jitsu,Adult,Female,Brown,Heavy (175.00lb)
+2022,3,Letícia Cardozo de Carvalho,Alliance,Adult,Female,Brown,Heavy (175.00lb)
+2022,3,Maria Vitória Gonçalves Ruffatto,Brazilian Top Team,Adult,Female,Brown,Heavy (175.00lb)
+2022,1,Mikaela Barros de Lima,GF Team,Adult,Female,Brown,Super-Heavy
+2022,2,Danielle R Walker,GF Team,Adult,Female,Brown,Super-Heavy
+2022,3,Heather Dunn,Team Jucão,Adult,Female,Brown,Super-Heavy
+2022,3,Samantha Hall,TAC Team BJJ,Adult,Female,Brown,Super-Heavy
+2022,1,Larissa Martins dos Santos,DreamArt,Adult,Female,Brown,Open Class
+2022,2,Paige Ivette Borras,Legion American Jiu-Jitsu,Adult,Female,Brown,Open Class
+2022,3,Aurélie LE Vern,Six Blades Jiu-Jitsu,Adult,Female,Brown,Open Class
+2022,3,Júlia de Jesus Alves,GF Team,Adult,Female,Brown,Open Class
+2022,1,Thalison Vitorino Soares,Art of Jiu Jitsu,Adult,Male,Black,Rooster (127.00lb)
+2022,2,Carlos Alberto Oliveira da Silva,GF Team,Adult,Male,Black,Rooster (127.00lb)
+2022,3,Cleber de Sousa Fernandes,Atos Jiu-Jitsu,Adult,Male,Black,Rooster (127.00lb)
+2022,3,Rodnei Barbosa Gabriel Jr.,Qatar BJJ / Vision Brasil,Adult,Male,Black,Rooster (127.00lb)
+2022,1,Meyram Maquiné Alves,DreamArt,Adult,Male,Black,Light-Feather (141.60lb)
+2022,2,Diego Oliveira Batista,DreamArt,Adult,Male,Black,Light-Feather (141.60lb)
+2022,3,Diogo Pinheiro dos Reis,Fight Sports,Adult,Male,Black,Light-Feather (141.60lb)
+2022,3,Hiago George Santos Silva,Cicero Costha Internacional,Adult,Male,Black,Light-Feather (141.60lb)
+2022,1,Isaac Doederlein,Alliance,Adult,Male,Black,Feather (154.60lb)
+2022,2,Raimundo Diego Pinto Sodre,Nova União,Adult,Male,Black,Feather (154.60lb)
+2022,3,Daniel Maira,Movement Art,Adult,Male,Black,Feather (154.60lb)
+2022,3,Samuel Andrade Nagai Hatchwell,CheckMat,Adult,Male,Black,Feather (154.60lb)
+2022,1,Tye Ruotolo,Atos Jiu-Jitsu,Adult,Male,Black,Light (168.00lb)
+2022,2,Jonnatas Gracie Araujo da Silva,Atos Jiu-Jitsu,Adult,Male,Black,Light (168.00lb)
+2022,3,Lucas Sette C. Valente Tobias,Gracie Barra,Adult,Male,Black,Light (168.00lb)
+2022,3,Matheus Gabriel Pinheiro Barros,CheckMat,Adult,Male,Black,Light (168.00lb)
+2022,1,Tainan Dalpra Costa,Art of Jiu Jitsu,Adult,Male,Black,Middle (181.60lb)
+2022,2,Andy Tomas Murasaki Pereira,Atos Jiu-Jitsu,Adult,Male,Black,Middle (181.60lb)
+2022,3,Ronaldo Pereira de Souza Júnior,Atos Jiu-Jitsu,Adult,Male,Black,Middle (181.60lb)
+2022,3,Tommy Lilleskog Langaker,Nova União,Adult,Male,Black,Middle (181.60lb)
+2022,1,Leandro Lo Pereira do Nascimento,Ns Brotherhood,Adult,Male,Black,Medium-Heavy (195.00lb)
+2022,2,Isaque Bahiense Braz,DreamArt,Adult,Male,Black,Medium-Heavy (195.00lb)
+2022,3,Bruno Filipe Santos Lima,Alexandre Machado Association - AMA Jiu-Jitsu Team,Adult,Male,Black,Medium-Heavy (195.00lb)
+2022,3,Gustavo Espindola Batista,Atos Jiu-Jitsu,Adult,Male,Black,Medium-Heavy (195.00lb)
+2022,1,Kaynan Casemiro Duarte,Atos Jiu-Jitsu,Adult,Male,Black,Heavy (208.00lb)
+2022,2,Dimitrius Soares Souza,Alliance,Adult,Male,Black,Heavy (208.00lb)
+2022,3,Pedro Henrique Pinheiro Machado de S,Atos Jiu-Jitsu,Adult,Male,Black,Heavy (208.00lb)
+2022,3,Rider Zuchi Samelo do Amaral,Ns Brotherhood,Adult,Male,Black,Heavy (208.00lb)
+2022,1,Erich Munis dos Santos,DreamArt,Adult,Male,Black,Super-Heavy (222.00lb)
+2022,2,Nicholas de Barcellos Meregali,DreamArt,Adult,Male,Black,Super-Heavy (222.00lb)
+2022,3,Fellipe Andrew Leandro Silva,Alliance,Adult,Male,Black,Super-Heavy (222.00lb)
+2022,3,Marcus Vinicius Ribeiro de Siqueira,Alliance,Adult,Male,Black,Super-Heavy (222.00lb)
+2022,1,Victor Hugo Costa Marques,Six Blades Jiu-Jitsu,Adult,Male,Black,Ultra-Heavy
+2022,2,Gutemberg de Jesus Santos Pereira,GF Team,Adult,Male,Black,Ultra-Heavy
+2022,3,Guilherme Augusto Soares Santos,Alliance,Adult,Male,Black,Ultra-Heavy
+2022,3,Wallace Costa da Silveira,GF Team,Adult,Male,Black,Ultra-Heavy
+2022,1,Nicholas de Barcellos Meregali,DreamArt,Adult,Male,Black,Open Class
+2022,2,Erich Munis dos Santos,DreamArt,Adult,Male,Black,Open Class
+2022,3,Fellipe Andrew Leandro Silva,Alliance,Adult,Male,Black,Open Class
+2022,3,Gustavo Espindola Batista,Atos Jiu-Jitsu,Adult,Male,Black,Open Class
+2022,1,Mayssa Caldas Pereira Bastos,Unity Jiu-jitsu,Adult,Female,Black,Rooster (107.00lb)
+2022,2,Brenda Larissa Alves da Silva,Fight Sports,Adult,Female,Black,Rooster (107.00lb)
+2022,3,Jhenifer Aquino Gonzaga,Atos Jiu-Jitsu,Adult,Female,Black,Rooster (107.00lb)
+2022,3,Serena Gabrielli,Flow,Adult,Female,Black,Rooster (107.00lb)
+2022,1,Ana Cristina Araujo Rodrigues,DreamArt,Adult,Female,Black,Light-Feather (118.00lb)
+2022,2,Tammi Alana Musumeci,Pedigo Submission Fighting,Adult,Female,Black,Light-Feather (118.00lb)
+2022,3,Rose-Marie el Sharouni,CheckMat,Adult,Female,Black,Light-Feather (118.00lb)
+2022,3,Thamires Diógenes de Aquino,GF Team,Adult,Female,Black,Light-Feather (118.00lb)
+2022,1,Bianca Barbosa Basilio,Atos Jiu-Jitsu,Adult,Female,Black,Feather (129.00lb)
+2022,2,Amanda Monteiro Canuto,GF Team,Adult,Female,Black,Feather (129.00lb)
+2022,3,Gabriela A. Pereira,Qatar BJJ / Vision Brasil,Adult,Female,Black,Feather (129.00lb)
+2022,3,Gabriela Meireles Fechter,CheckMat,Adult,Female,Black,Feather (129.00lb)
+2022,1,Ffion Eira Davies,Atos Jiu-Jitsu,Adult,Female,Black,Light (141.60lb)
+2022,2,Janaina Maia de Menezes,Gracie Humaita,Adult,Female,Black,Light (141.60lb)
+2022,3,Margot Ciccarelli,Unity Jiu-jitsu,Adult,Female,Black,Light (141.60lb)
+2022,3,Nathalie Wan Soares Veras Ribeiro,CheckMat,Adult,Female,Black,Light (141.60lb)
+2022,1,Andressa Mezari Cintra,Gracie Barra,Adult,Female,Black,Middle (152.60lb)
+2022,2,Thalyta Stefhane Lima Silva,Qatar BJJ / Vision,Adult,Female,Black,Middle (152.60lb)
+2022,3,Chloé  McNally,Unity Jiu-jitsu,Adult,Female,Black,Middle (152.60lb)
+2022,3,Thamara Ferreira Silva,Guigo JJ,Adult,Female,Black,Middle (152.60lb)
+2022,1,Ana Carolina Vieira Srour,Aviv Jiu-Jitsu,Adult,Female,Black,Medium-Heavy (163.60lb)
+2022,2,Luciana Mota Castelo Branco,Alliance,Adult,Female,Black,Medium-Heavy (163.60lb)
+2022,3,Fernanda Yukari Makiyama Cristo,Evox BJJ,Adult,Female,Black,Medium-Heavy (163.60lb)
+2022,3,Ingridd Alves de Sousa,Guigo JJ,Adult,Female,Black,Medium-Heavy (163.60lb)
+2022,1,Larissa Dias de Almeida,MJN Jiu-Jitsu,Adult,Female,Black,Heavy (175.00lb)
+2022,2,Rafaela Ribeiro Guedes,Atos Jiu-Jitsu,Adult,Female,Black,Heavy (175.00lb)
+2022,3,Fernanda Mazzelli Almeida Maio,Striker JJ,Adult,Female,Black,Heavy (175.00lb)
+2022,3,Melissa Stricker Cueto,Alliance,Adult,Female,Black,Heavy (175.00lb)
+2022,1,Gabrieli Pessanha de Souza Marinho,Infight JJ,Adult,Female,Black,Super-Heavy
+2022,2,Yara Soares do Nascimento,DreamArt,Adult,Female,Black,Super-Heavy
+2022,3,Claire-France Thevenon,Panda Supa Crew,Adult,Female,Black,Super-Heavy
+2022,3,Mayara Monteiro Custódio,CheckMat,Adult,Female,Black,Super-Heavy
+2022,1,Gabrieli Pessanha de Souza Marinho,Infight JJ,Adult,Female,Black,Open Class
+2022,2,Amy Scot Campo,Zenith BJJ,Adult,Female,Black,Open Class
+2022,3,Ana Carolina Vieira Srour,Aviv Jiu-Jitsu,Adult,Female,Black,Open Class
+2022,3,Rafaela Ribeiro Guedes,Atos Jiu-Jitsu,Adult,Female,Black,Open Class
